@@ -22,7 +22,7 @@ while True:
                 print(i, task)
 
     elif choice == "3":
-        print("Goodbye!")
+        print("Goodbye see you later!")
         break
 
     else:
